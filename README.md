@@ -1,4 +1,4 @@
-# Course 2022-2023: Web and Social Network Analysis
+# Coding notes for Course 2022-2023: Web and Social Network Analysis
 
 There are 5 Weeks notes:
  * Week 0 -- Python fundamental
