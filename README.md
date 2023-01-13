@@ -2,7 +2,7 @@
 
 There are 5 Weeks notes:
  * Week 0 -- Python fundamental, including some exercises
- * Week 1 -- Web scraping and analytics
+ * Week 1 -- Web scraping and analytics 
  * Week 2 -- Search engines and traffic prediction
  * Week 3 -- Social network analysis I
  * Week 4 -- Social network analysis II
@@ -10,3 +10,4 @@ There are 5 Weeks notes:
 From Week 1 to Week 4, Assessment Preparation Challenges: weekly optional challenges (included in coding notebook). 
 There are no solutions to these challenges.
 
+Notice: In week one, Week1-notes-web-and-analytics2.ipynb can be only run in your own computer rather than Noteable because we require to run .exe file.
